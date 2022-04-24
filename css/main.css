@@ -48,6 +48,7 @@ main {
 .title {
     color: var(--main-heading-stats);
     font-size: 36px;
+    font-weight: 600;
     padding-bottom: 2rem;    
 }
 
@@ -72,6 +73,7 @@ main {
 .subtext-section h2 {
     color: var(--main-heading-stats);
     padding-bottom: .5rem;
+    font-weight: 600;
 }
 
 .subtext-section p {
